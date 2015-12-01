@@ -59,3 +59,8 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/p
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,L'EQUIPE TV SPORT
+http://94.23.33.220:8280/5687/02.m3u8
+#EXTINF:-1,TVA SPORTS - CANADA / FRANCE
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,Sporttv1
