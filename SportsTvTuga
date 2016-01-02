@@ -103,3 +103,30 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/p
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="PLEXUS",[COLOR yellow] ========================= [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="PLEXUS",[COLOR yellow] VER COM PLEXUS INSTALADO [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="PLEXUS",[COLOR yellow] ========================= [/COLOR]
+http://google.com
+
+
+
+
+
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV 2  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 3 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV 3  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 4 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV 4 
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 5 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV 5 
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
