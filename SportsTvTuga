@@ -111,22 +111,32 @@ http://google.com
 http://google.com
 
 
+#EXTINF:0  tvg-id="sporttv1.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV1.png" tvg-name"sporttv1.pt", SPORT TV 1
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:0  tvg-id="sporttv2.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV2.png" tvg-name="sporttv2.pt", SPORT TV 2
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV3.png" tvg-name="sporttv3.pt", SPORT TV 3 
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:0 tvg-id="SPORT.TVLIVE.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV4.png" tvg-name="sporttv4.pt", SPORT TV 4 
+rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/magellan
+
+#EXTINF:0 tvg-id="SportTVGolfe.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV5.png" tvg-name="sporttv5.pt", SPORT TV 5
+
+#EXTINF:0 tvg-id="SportTVAmericas.pt" group-title="Desporto Nacional" tvg-logo="SPORTTVAM.png" tvg-name="sporttv5.pt", SPORT TV Américas
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master.m3u8
+
+#EXTINF:0 tvg-id="SportTVAmericas.pt" group-title="Desporto Nacional" tvg-logo="SPORTTVAM.png" tvg-name="sporttv5.pt", SPORT TV Américas HD
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Desporto Nacional" tvg-logo="SPORTING.png" tvg-name="SPORTINGTV", SportingTV
 
 
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto Nacional" tvg-logo="BENFICA.png" tvg-name="BENFICATV", Benfica TV 1 HD
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
 
-
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 2 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream&mode=1&name=SPORT TV 2  
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 3 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream&mode=1&name=SPORT TV 3  
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 4 [/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV 4 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 5 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV 5 
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 2 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+#EXTINF:0 tvg-id="BenficaTV2.pt" group-title="Desporto Nacional" tvg-logo="BENFICA2.png" tvg-name="BenficaTV2", Benfica TV 2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
